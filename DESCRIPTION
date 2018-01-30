@@ -1,0 +1,11 @@
+Package: dukecolor
+Type: Package
+Title: A Duke Color Palette for R
+Version: 0.1.0
+Author@R: c(person("Chu", "An", role = c("aut", "cre"),
+    email = "chuvanan.cva@gmail.com"))
+Description: R version of Duke Color Palette
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
