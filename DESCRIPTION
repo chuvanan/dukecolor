@@ -8,4 +8,5 @@ Description: R version of Duke Color Palette
 License: MIT
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/chuvanan/dukecolor
 RoxygenNote: 6.0.1
