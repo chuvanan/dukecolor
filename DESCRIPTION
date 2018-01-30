@@ -2,8 +2,8 @@ Package: dukecolor
 Type: Package
 Title: A Duke Color Palette for R
 Version: 0.1.0
-Author@R: c(person("Chu", "An", role = c("aut", "cre"), email = "chuvanan.cva@gmail.com"))
-Maintainer: Chu Van An <chuvanan.cva@gmail.com>
+Author: An Chu <chuvanan.cva@gmail.com>
+Maintainer: An Chu <chuvanan.cva@gmail.com>
 Description: R version of Duke Color Palette
 License: MIT
 Encoding: UTF-8
