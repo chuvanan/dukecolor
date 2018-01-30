@@ -1,6 +1,6 @@
 
 
-### dukecolor
+# dukecolor
 
 A list of palettes from Duke University Style Guide
 
