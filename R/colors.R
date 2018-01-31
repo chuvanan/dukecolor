@@ -30,7 +30,7 @@ duke_palettes <- list(
 #'   \code{Neutrals}
 #' @param type Either "continuous" or "discrete". Use continuous if you want
 #'   to automatically interpolate between colours.
-#'   @importFrom graphics rgb rect par image text
+#' @importFrom graphics rgb rect par image text
 #' @return A vector of colours.
 #' @export
 #' @keywords colors
@@ -79,5 +79,5 @@ print.palette <- function(x, ...) {
           ylab = "", xaxt = "n", yaxt = "n", bty = "n")
 
     rect(0, 0.9, n + 1, 1.1, col = rgb(1, 1, 1, 0.8), border = NA)
-    text((n + 1) / 2, 1, labels = attr(x, "name"), cex = 1, family = "serif")
+    text((n + 1) / 2, 1, labels = attr(x, "name"), cex = 1, family = "sans")
 }
