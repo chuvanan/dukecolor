@@ -61,3 +61,8 @@ duke_palette("Neutrals")
 ```
 
 ![](figures/neutrals.png)
+
+
+### Demo
+
+![](figures/mtcars.png)

@@ -17,8 +17,7 @@ have 2, 4, 6, or 8 colors. All color schemes are copied from Duke University Sty
 If omitted, uses all colours.}
 
 \item{type}{Either "continuous" or "discrete". Use continuous if you want
-to automatically interpolate between colours.
-@importFrom graphics rgb rect par image text}
+to automatically interpolate between colours.}
 }
 \value{
 A vector of colours.
