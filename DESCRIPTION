@@ -1,7 +1,7 @@
 Package: dukecolor
 Type: Package
 Title: A Duke Color Palette for R
-Version: 0.1.0
+Version: 0.1.1
 Author: An Chu <chuvanan.cva@gmail.com>
 Maintainer: An Chu <chuvanan.cva@gmail.com>
 Description: R version of Duke Color Palette
